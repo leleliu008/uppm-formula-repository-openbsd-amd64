@@ -1,0 +1,5 @@
+summary: Display directories as trees (with optional color/HTML output)
+webpage: http://mama.indstate.edu/users/ice/tree
+version: 2.0.2
+bin-url: https://raw.githubusercontent.com/leleliu008/ppkg-core-freebsd-x86_64/master/tree-2.0.2-freebsd-x86_64.tar.xz
+bin-sha: 20d47c417abe3bd8469016bad6e21c2cdc98ebf07b6a793d4612de4552fcd9b8
