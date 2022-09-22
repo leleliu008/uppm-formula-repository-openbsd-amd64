@@ -1,0 +1,5 @@
+summary: Go git service
+webpage: https://gogs.io
+version: 0.12.10
+bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-x86_64/releases/download/2022.09.22/gogs-0.12.10-openbsd-x86_64.tar.xz
+bin-sha: aed412b927de119638b33596e230f51a2c9c49b68ca4efe3b54603d985b1b24e

@@ -1,0 +1,5 @@
+summary: Static analysis of C and C++ code
+webpage: https://sourceforge.net/projects/cppcheck
+version: 2.8.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-x86_64/releases/download/2022.09.22/cppcheck-2.8.2-openbsd-x86_64.tar.xz
+bin-sha: 9198cb0ed05c5f8b4c35c307e0fa3c5dc5dcbc6b2c1fde752cfe97b300584bfe

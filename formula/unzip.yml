@@ -1,5 +1,5 @@
 summary: a command-line tool for extracting zip-compressed archives(.zip files)
 webpage: https://infozip.sourceforge.io/UnZip.html
 version: 6.0.26
-bin-url: https://raw.githubusercontent.com/leleliu008/uppm-package-repository-openbsd-x86_64/master/unzip-6.0.26-openbsd-x86_64.tar.xz
+bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-x86_64/releases/download/2022.09.22/unzip-6.0.26-openbsd-x86_64.tar.xz
 bin-sha: e588590047aed21c86e0710e9c7f8edd96bf00735eb65c03154cd36e270c7400

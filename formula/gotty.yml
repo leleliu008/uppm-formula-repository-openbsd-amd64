@@ -1,0 +1,5 @@
+summary: Share your terminal as a web application
+webpage: https://github.com/sorenisanerd/gotty.git
+version: 1.3.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-x86_64/releases/download/2022.09.22/gotty-1.3.0-openbsd-x86_64.tar.xz
+bin-sha: 2f490072db94fc7b37de527e5ee92e659a6965e23cb4f5a80cde473646f2d1c2

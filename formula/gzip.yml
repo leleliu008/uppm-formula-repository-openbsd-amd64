@@ -1,0 +1,5 @@
+summary: Popular GNU data compression program
+webpage: https://www.gnu.org/software/gzip
+version: 1.12
+bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-x86_64/releases/download/2022.09.22/gzip-1.12-openbsd-x86_64.tar.xz
+bin-sha: 933c28ccf6a638ba7173d6db2c778884615fd2594a6a2118939d588ca60ad1cb

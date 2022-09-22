@@ -1,0 +1,5 @@
+summary: Utility for directing compilation
+webpage: https://www.gnu.org/software/make
+version: 4.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-x86_64/releases/download/2022.09.22/gmake-4.3-openbsd-x86_64.tar.xz
+bin-sha: 8bfce9a64dcc00ead1a0c6f57b92d7b42ff38edfb6992914432598f1d342a48f

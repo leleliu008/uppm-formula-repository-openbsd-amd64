@@ -1,0 +1,5 @@
+summary: Power of curl, ease of use of httpie
+webpage: https://curlie.io
+version: 1.6.9
+bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-x86_64/releases/download/2022.09.22/curlie-1.6.9-openbsd-x86_64.tar.xz
+bin-sha: a530adbea2cbffb8b64528287d39919b0f50dc740a613f16838e85759d532b87

@@ -1,0 +1,5 @@
+summary: Reimplementation of pkg-config
+webpage: http://pkgconf.org
+version: 1.9.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-x86_64/releases/download/2022.09.22/pkgconf-1.9.3-openbsd-x86_64.tar.xz
+bin-sha: 16e95d98e4ae382b74443afc50e67681c89886022baeb2bea6bdefe8c146b92c

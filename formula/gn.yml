@@ -1,0 +1,5 @@
+summary: a meta-build system that generates build files for ninja
+webpage: https://gn.googlesource.com/gn.git
+version: 2022.09.21
+bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-x86_64/releases/download/2022.09.22/gn-2022.09.21-openbsd-x86_64.tar.xz
+bin-sha: 6ebc5444dd30b0072080abc829b5b8d9e2f62599c48f1c48134f5bffc737ec6f

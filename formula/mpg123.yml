@@ -1,0 +1,5 @@
+summary: MP3 player
+webpage: https://www.mpg123.de
+version: 1.30.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-x86_64/releases/download/2022.09.22/mpg123-1.30.2-openbsd-x86_64.tar.xz
+bin-sha: fc34474f66d2d352fefa16aae9c03f5fbd376add86878debcd37b9f89688d3b4

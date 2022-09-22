@@ -1,0 +1,5 @@
+summary: General-purpose data compression with high compression ratio
+webpage: https://tukaani.org/xz
+version: 5.2.6
+bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-x86_64/releases/download/2022.09.22/xz-5.2.6-openbsd-x86_64.tar.xz
+bin-sha: 760632ab5b4290f4d81d2d11df5cd3d602c7478a3c94c1fd81ce5708f90179a1

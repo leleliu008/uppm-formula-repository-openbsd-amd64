@@ -1,0 +1,5 @@
+summary: Utility to determine file types
+webpage: https://www.darwinsys.com/file
+version: 5.42
+bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-x86_64/releases/download/2022.09.22/file-5.42-openbsd-x86_64.tar.xz
+bin-sha: 9bb825e5012de08c2bb96d40af535642900230d123e1d42c5399b6abfe7768e2

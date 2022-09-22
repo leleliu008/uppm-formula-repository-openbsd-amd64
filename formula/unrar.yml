@@ -1,0 +1,5 @@
+summary: Extract, view, and test RAR archives
+webpage: https://www.rarlab.com
+version: 6.1.7
+bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-x86_64/releases/download/2022.09.22/unrar-6.1.7-openbsd-x86_64.tar.xz
+bin-sha: f94f432dd942300d5b05475141ab5729177f9c2ae746c8aa17d44f8997012672

@@ -1,0 +1,5 @@
+summary: Classic UNIX line editor
+webpage: https://www.gnu.org/software/ed/ed.html
+version: 1.18
+bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-x86_64/releases/download/2022.09.22/ed-1.18-openbsd-x86_64.tar.xz
+bin-sha: 7a1e2c83fa216ae46a18ddc87d0055b9939e34be5217817501638dc3d4e37858

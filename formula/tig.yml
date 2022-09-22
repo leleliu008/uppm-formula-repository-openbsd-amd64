@@ -1,0 +1,5 @@
+summary: Text interface for Git repositories
+webpage: https://jonas.github.io/tig
+version: 2.5.7
+bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-x86_64/releases/download/2022.09.22/tig-2.5.7-openbsd-x86_64.tar.xz
+bin-sha: 99bed81b366081dd4ecc6eeb6945e3acfca31d61aed961dabc13573b85014b10

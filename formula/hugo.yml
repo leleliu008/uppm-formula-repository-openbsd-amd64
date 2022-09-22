@@ -1,0 +1,5 @@
+summary: Configurable static site generator
+webpage: https://gohugo.io
+version: 0.101.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-x86_64/releases/download/2022.09.22/hugo-0.101.0-openbsd-x86_64.tar.xz
+bin-sha: 07f2bbcd5e34ec0afd9d9b5cb4e8f3f4e9eefd92399236a330b79c4920f03d49
