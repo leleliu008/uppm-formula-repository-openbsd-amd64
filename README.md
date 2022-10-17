@@ -1,2 +1,2 @@
-# uppm-formula-repository-openbsd-x86_64
+# uppm-formula-repository-openbsd-amd64
 the offical formula repository for uppm
