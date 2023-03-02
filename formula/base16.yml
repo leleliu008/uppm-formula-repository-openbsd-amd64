@@ -1,0 +1,5 @@
+summary: base16 encoder and decoder
+webpage: https://github.com/leleliu008/C-examples.git
+version: 2023.03.02
+bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-amd64/releases/download/2022.09.22/base16-2023.03.02-openbsd-amd64.tar.xz
+bin-sha: b5bc233e9235fa10065be7af455928cb44afa34e749383002198857cb02ced24
