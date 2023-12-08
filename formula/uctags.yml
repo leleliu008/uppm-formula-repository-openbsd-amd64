@@ -1,5 +1,5 @@
 summary: Maintained ctags implementation
 webpage: https://ctags.io/
-version: 2022.09.20
-bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-x86_64/releases/download/2022.09.22/uctags-2022.09.20-openbsd-x86_64.tar.xz
-bin-sha: b608a1abf5c9f4206c8b3633858d9f35441283f13b3b5e8b41a0f7cf345c06b7
+version: 2023.12.08 
+bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-7.4-amd64/releases/download/2023.12.08/uctags-2023.12.08-openbsd-7.4-amd64.tar.xz 
+bin-sha: 08ccf5f9b0301086b2e1ace1a81d3692c03d1797849c7b353e6ae05e681d9848

@@ -1,5 +1,5 @@
 summary: a collections of easy to use command-line utilities
-webpage: https://github.com/leleliu008/C-examples.git
-version: 2023.03.21
-bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-amd64/releases/download/2022.09.22/easyutils-2023.03.21-openbsd-amd64.tar.xz
-bin-sha: 69276e893c0d81147c95b3408cba165b533f9d03d6e455fe0591b33c506175d2
+webpage: https://github.com/leleliu008/C-examples
+version: 2023.12.08 
+bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-7.4-amd64/releases/download/2023.12.08/easyutils-2023.12.08-openbsd-7.4-amd64.tar.xz 
+bin-sha: 23344cab54a0ee15cc92d4328ab985467e446aa7d1a8d834e19515e0e1df6ef1
