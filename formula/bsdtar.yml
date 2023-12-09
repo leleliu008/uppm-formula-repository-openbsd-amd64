@@ -1,5 +1,5 @@
-summary: Multi-format archive and compression library
+summary: BSD tar
 webpage: https://www.libarchive.org/
-version: 3.7.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-amd64/releases/download/2022.09.22/bsdtar-3.7.2-openbsd-amd64.tar.xz
-bin-sha: 9d479b35d75dcbcbb889f49ed8f87e126e42d64f82f55c60cb949e0e6ae4b0fa
+version: 3.7.2 
+bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-7.4-amd64/releases/download/2023.12.09/bsdtar-3.7.2-openbsd-7.4-amd64.tar.xz 
+bin-sha: 0ff7d7cc7b28a47b67f625ab9847941824af533f75df41eff71f424ee94ec442
